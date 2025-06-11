@@ -1,0 +1,105 @@
+{
+    "Anna Kondrat": {
+        "odpowiedzi": {
+            "Ile masz rodzeństwa?": 1,
+            "Ile litrów wody pijesz dziennie?": 2,
+            "Ile razy w miesiącu chodzisz do kina lub teatru?": 1,
+            "Ile masz zwierząt?": 1,
+            "Jak bardzo czujesz się odpowiedzialny/a za innych? (0 = wcale, 5 = bardzo)": 3,
+            "Ile posiłków dziennie jesz?": 0,
+            "Ile razy w tygodniu uprawiasz sport?": 5,
+            "Jak bardzo lubisz być w centrum uwagi? (0 = wcale, 5 = bardzo)": 0,
+            "Ile dziennie pijesz kaw?": 4,
+            "Jak bardzo lubisz ryzyko? (0 = wcale, 5 = bardzo)": 4,
+            "Ile godzin dziennie spędzasz na naukę?": 4,
+            "Ile godzin dziennie spędzasz na gotowanie?": 4,
+            "Jaką masz średnią na studiach (zaokrągloną do pełnej cyfry)?": 4,
+            "Jak bardzo czujesz się akceptowany/a przez innych? (0 = wcale, 5 = bardzo)": 5,
+            "Jak bardzo stresują cię sytuacje z niepewnością? (0 = wcale, 5 = bardzo)": 5,
+            "Ile książek przeczytałeś/przeczytałaś w ostatnim miesiącu?": 5,
+            "Na ile wierzysz, że ludzie są z natury dobrzy? (0 = wcale, 5 = w pełni)": 5,
+            "Ile razy w miesiącu odwiedzasz muzea lub galerie sztuki?": 4,
+            "Jak bardzo przejmujesz się opinią innych? (0 = wcale, 5 = bardzo)": 4,
+            "Na ile czujesz się związany/a ze swoją kulturą? (0 = wcale, 5 = bardzo)": 4
+        },
+        "indeksy": []
+    },
+    "test": {
+        "odpowiedzi": {
+            "Ile litrów wody pijesz dziennie?": 0,
+            "Ile razy w miesiącu odwiedzasz muzea lub galerie sztuki?": 4,
+            "Ile dziennie pijesz kaw?": 5,
+            "Ile razy w miesiącu chodzisz do kina lub teatru?": 5,
+            "Jak bardzo czujesz się odpowiedzialny/a za innych? (0 = wcale, 5 = bardzo)": 5,
+            "Na ile wierzysz, że ludzie są z natury dobrzy? (0 = wcale, 5 = w pełni)": 5,
+            "Jak bardzo lubisz ryzyko? (0 = wcale, 5 = bardzo)": 5,
+            "Ile masz rodzeństwa?": 3,
+            "Jaką masz średnią na studiach (zaokrągloną do pełnej cyfry)?": 5,
+            "Ile razy w tygodniu uprawiasz sport?": 5,
+            "Jak bardzo stresują cię sytuacje z niepewnością? (0 = wcale, 5 = bardzo)": 5
+        },
+        "indeksy": [
+            1,
+            3,
+            5,
+            6,
+            8,
+            14,
+            15,
+            16,
+            18
+        ]
+    },
+    "Wera Smith": {
+        "odpowiedzi": {
+            "Ile masz zwierząt?": 1,
+            "Ile godzin dziennie spędzasz na naukę?": 2
+        },
+        "indeksy": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    "a": {
+        "odpowiedzi": {
+            "Jak bardzo przejmujesz się opinią innych? (0 = wcale, 5 = bardzo)": 5
+        },
+        "indeksy": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19
+        ]
+    }
+}

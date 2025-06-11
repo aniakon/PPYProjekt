@@ -1,0 +1,20 @@
+Ile masz rodzeństwa?
+Ile godzin dziennie spędzasz na naukę?
+Ile razy w tygodniu uprawiasz sport?
+Ile książek przeczytałeś/przeczytałaś w ostatnim miesiącu?
+Ile razy w miesiącu chodzisz do kina lub teatru?
+Ile posiłków dziennie jesz?
+Ile masz zwierząt?
+Ile dziennie pijesz kaw?
+Ile godzin dziennie spędzasz na gotowanie?
+Ile razy w miesiącu odwiedzasz muzea lub galerie sztuki?
+Ile litrów wody pijesz dziennie?
+Jaką masz średnią na studiach (zaokrągloną do pełnej cyfry)?
+Na ile wierzysz, że ludzie są z natury dobrzy? (0 = wcale, 5 = w pełni)
+Jak bardzo czujesz się odpowiedzialny/a za innych? (0 = wcale, 5 = bardzo)
+Jak bardzo lubisz być w centrum uwagi? (0 = wcale, 5 = bardzo)
+Jak bardzo przejmujesz się opinią innych? (0 = wcale, 5 = bardzo)
+Na ile czujesz się związany/a ze swoją kulturą? (0 = wcale, 5 = bardzo)
+Jak bardzo lubisz ryzyko? (0 = wcale, 5 = bardzo)
+Jak bardzo czujesz się akceptowany/a przez innych? (0 = wcale, 5 = bardzo)
+Jak bardzo stresują cię sytuacje z niepewnością? (0 = wcale, 5 = bardzo)
